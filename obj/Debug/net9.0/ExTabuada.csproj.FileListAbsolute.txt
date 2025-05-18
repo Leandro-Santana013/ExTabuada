@@ -1,0 +1,15 @@
+C:\Users\Santana\Desktop\lista logica\ExTabuada\bin\Debug\net9.0\ExTabuada.exe
+C:\Users\Santana\Desktop\lista logica\ExTabuada\bin\Debug\net9.0\ExTabuada.deps.json
+C:\Users\Santana\Desktop\lista logica\ExTabuada\bin\Debug\net9.0\ExTabuada.runtimeconfig.json
+C:\Users\Santana\Desktop\lista logica\ExTabuada\bin\Debug\net9.0\ExTabuada.dll
+C:\Users\Santana\Desktop\lista logica\ExTabuada\bin\Debug\net9.0\ExTabuada.pdb
+C:\Users\Santana\Desktop\lista logica\ExTabuada\obj\Debug\net9.0\ExTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santana\Desktop\lista logica\ExTabuada\obj\Debug\net9.0\ExTabuada.AssemblyInfoInputs.cache
+C:\Users\Santana\Desktop\lista logica\ExTabuada\obj\Debug\net9.0\ExTabuada.AssemblyInfo.cs
+C:\Users\Santana\Desktop\lista logica\ExTabuada\obj\Debug\net9.0\ExTabuada.csproj.CoreCompileInputs.cache
+C:\Users\Santana\Desktop\lista logica\ExTabuada\obj\Debug\net9.0\ExTabuada.sourcelink.json
+C:\Users\Santana\Desktop\lista logica\ExTabuada\obj\Debug\net9.0\ExTabuada.dll
+C:\Users\Santana\Desktop\lista logica\ExTabuada\obj\Debug\net9.0\refint\ExTabuada.dll
+C:\Users\Santana\Desktop\lista logica\ExTabuada\obj\Debug\net9.0\ExTabuada.pdb
+C:\Users\Santana\Desktop\lista logica\ExTabuada\obj\Debug\net9.0\ExTabuada.genruntimeconfig.cache
+C:\Users\Santana\Desktop\lista logica\ExTabuada\obj\Debug\net9.0\ref\ExTabuada.dll
